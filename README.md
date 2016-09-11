@@ -4,6 +4,8 @@ Bluetooth Commands for the x-light Smart Bulb. Using bluez on linux.
 These Codes can be used to control the bulb from your PC or from any other app which supports bluetooth.
 The lightbulb can than consequently be integrated into Smart Hubs like the [home-assistant.io](http://www.home-assistant.io/)
 
+The color codes presented here are far from complete. If you find out more codes, feel free to open a Pull Request and I will add them.
+
 
 
 
@@ -25,5 +27,3 @@ There should be an device named "x-light@WE-SMART". Note the MAC-Adress
     
 Insert the the correct Mac-Adress for the {your-MAC} field and the color you want for the {color-code} field.
 Use this repository to find correct color codes.
-    
-
