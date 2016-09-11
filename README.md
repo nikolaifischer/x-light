@@ -1,6 +1,6 @@
 # x-light
 
-Bluetooth Commands for the x-light Smart Bulb. Using bluez on linux.
+Bluetooth Commands for the x-light Smart Bulb from the chinese company we-smart. The commands are send using the bluez suite for linux.
 These Codes can be used to control the bulb from your PC or from any other app which supports bluetooth.
 The lightbulb can than consequently be integrated into Smart Hubs like the [home-assistant.io](http://www.home-assistant.io/)
 
