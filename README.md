@@ -18,7 +18,6 @@ The lightbulb can than consequently be integrated into Smart Hubs like the [home
 
 There should be an device named "x-light@WE-SMART". Note the MAC-Adress
 
-![]({{site.baseurl}}//screen1.PNG)
 
 ### 4. Write to the bulb to make it change it's color:
 
